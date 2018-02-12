@@ -1,0 +1,16 @@
+#show {
+  background-color: $orange;
+  color: $orange;
+}
+
+.header-flat-details {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  box-sizing: border-box;
+
+  h1 {
+    font-size: 30px;
+  }
+
+}
